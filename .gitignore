@@ -1,0 +1,15 @@
+*.aux
+*.log
+*.toc
+*.pdf
+*.gz
+*.*~
+*.class
+/nbproject/private/
+/build/
+/src/nbproject/private
+/dist/
+/bin
+*.bak
+
+*.properties
